@@ -1,0 +1,19 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "Nodejs básico",
+  "main": "index.js",
+  "scripts": {
+    "test": "na"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SebastianPeredoM/nodejs.git"
+  },
+  "author": "Sebastian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SebastianPeredoM/nodejs/issues"
+  },
+  "homepage": "https://github.com/SebastianPeredoM/nodejs#readme"
+}
