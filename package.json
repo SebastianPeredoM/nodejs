@@ -4,7 +4,8 @@
   "description": "Nodejs básico",
   "main": "index.js",
   "scripts": {
-    "test": "na"
+    "test": "echo \"Error: no teste specified\" && exit 1",
+    "say": "cowsay Hola"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/SebastianPeredoM/nodejs/issues"
   },
-  "homepage": "https://github.com/SebastianPeredoM/nodejs#readme"
+  "homepage": "https://github.com/SebastianPeredoM/nodejs#readme",
+  "dependencies": {
+    "cowsay": "^1.4.0"
+  }
 }
